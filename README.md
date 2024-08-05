@@ -28,6 +28,8 @@ That's it. For advanced usage run with `-h` flag. You can output to a custom fil
 - Before:
   ![screenshot-2024-08-05-11-29-19](https://github.com/user-attachments/assets/3dfb5583-ceaa-4d00-84be-0930404767d9)
 
+  (it may look like the above are normal colours, but with other commands like `ls` and `htop` the text is illegible. it is not fixed with `wal -R`]
+
 - After:
   ![screenshot-2024-08-05-11-28-10](https://github.com/user-attachments/assets/5cf48bcf-4d74-4a9f-a069-17edc95fe7b9)
 
