@@ -6,6 +6,8 @@ To solve this I manually copied and pasted colors 0-7 and respective foreground 
 
 # How to use
 
+## Generate theme
+
 - First, copy this repo:
 ```bash
 git clone https://github.com/dharmik2319/pywal-cosmic-term.git
@@ -22,6 +24,12 @@ python main.py
 ```
 
 That's it. For advanced usage run with `-h` flag. You can output to a custom file [Default: `./pywal.ron`], use your own sample file [Default: `./COSMIC Dark.ron`], and give the path to your pywal colors file [Default: `~/.cache/wal/colors`].
+
+## Apply theme in cosmic-term
+
+- View > Colour Schemes > Dark/Light> Import > /path/to/pywal.ron
+
+- View > Settings > Colour scheme dark/light > pywal
 
 # Images for reference
 
