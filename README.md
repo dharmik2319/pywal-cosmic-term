@@ -8,7 +8,7 @@ To solve this I manually copied and pasted colors 0-7 and respective foreground 
 
 ## Generate theme
 
-- First, copy this repo:
+- First, clone this repo:
 ```bash
 git clone https://github.com/dharmik2319/pywal-cosmic-term.git
 ```
