@@ -23,6 +23,11 @@ ron: Dict[str, str | Dict[str, str]] = pyron.load(
 with open(args.pywal_colors.absolute(), 'r') as file:
     colors: List[str] = file.read().split('\n')
 
+'''
+Repetition is the programmer's worst enemy.
+                                            - dharmik2319
+'''
+
 ron['name'] = 'pywal'
 ron['foreground'] = colors[15]
 ron['cursor'] = colors[15]
